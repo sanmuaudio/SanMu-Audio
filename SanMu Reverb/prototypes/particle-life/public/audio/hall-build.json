@@ -1,0 +1,9 @@
+{
+  "builtAt": "2026-09-08T12:02:58.545Z",
+  "hashes": {
+    "../../source/dsp/engines/hall/HallField.h": "ffc1fbf87a437fb20b92f62079652dd6beeb6371c25ac27ffcab0e93ea091277",
+    "dsp/bridge.cpp": "d24a2b8fd3c394e2036e47d2b2539f426822c50acbffa0bd48325a18e7533cea",
+    "public/audio/hall-dsp.js": "991e55ec6bd5e5eeb066c53bd23c83475e46098a9ab015c959ed3f7f7e0864e6",
+    "public/audio/hall-dsp.wasm": "22702da018aadf294718ffafc49808b9cc3060b4ed0b0f6ac091f9a3b7fe4f5e"
+  }
+}
